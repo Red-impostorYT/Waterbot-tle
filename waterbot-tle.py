@@ -1,6 +1,5 @@
 import discord
 import time
-from datetime import datetime
 
 class MyClient(discord.Client):
     async def on_ready(self):
